@@ -1,0 +1,16 @@
+# Site settings
+title: Dave Grant
+email: dave@bdgnetworks.com
+description: "Thinker // Coder // Youtuber"
+blurb: <p><strong>Street art gluten-free scenester +1.</strong> Twee tousled yr, occupy vinyl sriracha mixtape retro fap. Blog quinoa post-ironic flexitarian. Flannel seitan vegan chambray Schlitz. Slow-carb whatever wolf, Godard photo booth meditation fanny pack artisan heirloom. Sriracha Neutra flannel, aesthetic bespoke tousled 90's direct trade High Life seitan flexitarian viral. Normcore try-hard Pinterest, keytar Wes Anderson aesthetic raw denim pop-up next level flannel salvia craft beer retro selfies.</p>
+
+# Build settings
+
+markdown: kramdown
+permalink: pretty
+
+port: 3000
+
+sass:
+  sass_dir: assets/css
+  style: :nested
